@@ -1,36 +1,38 @@
 # INFORMATIQUE
 
-## <u>Blogs :</u>
+## <u>Documentations</u>
 
-### Blogs - Dev - FR :
+### Doc - Dev - FR
 
 - [Grafikart](https://grafikart.fr/)
 
 - [OpenClassroom](https://info.openclassrooms.com/)
 
-### Blogs - Dev - EN :
+### Doc - Dev - EN
 
 - [StackOverflow](https://stackoverflow.com/)
 
-### Blogs - Sysadmin / Linux - FR :
+### Doc - Sysadmin / Linux - FR
 
 - [LinuxTricks](https://www.linuxtricks.fr/)
 
-### Blogs - Infosec - FR :
+### Doc - Infosec - FR
 
-- [lestutosdeprocessus](https://lestutosdeprocessus.fr/)
+- [Lestutosdeprocessus](https://lestutosdeprocessus.fr/)
 
-- [h25](https://blog.h25.io/)
+- [Hackndo](https://beta.hackndo.com/)
 
-- [soeasy](http://soeasy.ouaibe.fr/)
+- [H25io](https://blog.h25.io/)
 
-### Blogs - Misc - FR :
+- [Soeasy](http://soeasy.ouaibe.fr/)
+
+- [Xanhacks](https://www.xanhacks.xyz/)
+
+### Doc - Misc - FR
 
 - [Korben](https://korben.info/)
 
-
-
-## <u>Chaines Youtube :</u>
+## <u>Chaines Youtube</u>
 
 ### Chaines Youtube - Dev - FR
 
@@ -44,6 +46,12 @@
 
 - [Sentdex](https://www.youtube.com/c/sentdex/)
 
+- [TechWithTim](https://www.youtube.com/c/TechWithTim)
+
+- [FreeCodeCamp](https://www.youtube.com/c/Freecodecamp)
+
+- [Engineer Man](https://www.youtube.com/c/EngineerMan)
+
 ### Chaines Youtube - Sysadmin / Linux - FR
 
 - [Cocadmin](https://www.youtube.com/channel/UCVRJ6D343dX-x730MRP8tNw)
@@ -54,19 +62,33 @@
 
 ### Chaines Youtube - Infosec - FR
 
-- [Processus Thief YTB](https://www.youtube.com/channel/UCqrxDV9EPOlI1YMhzIPed2g) ou [Processus Thief Perrtube](https://peertube.lestutosdeprocessus.fr/)
+- [Processus Thief YTB](https://www.youtube.com/channel/UCqrxDV9EPOlI1YMhzIPed2g) ou [Peertube Processus Thief](https://peertube.lestutosdeprocessus.fr/)
 
 - [Nasm](https://www.youtube.com/channel/UCMLdzIcHxhrDkgyw9IxgOwQ)
+
+- [Ethnical Informatique](https://www.youtube.com/c/EthnicalNightamre)
 
 ### Chaines Youtube - Infosec - EN
 
 - [HackerSploit](https://www.youtube.com/c/HackerSploit)
 
-- [Overflow](https://www.youtube.com/c/LiveOverflowCTF/)
+- [LiveOverflow](https://www.youtube.com/c/LiveOverflowCTF/)
 
+- [JohnHammond](https://www.youtube.com/c/JohnHammond010/)
 
+- [Null Bytes](https://www.youtube.com/c/NullByteWHT)
 
-### <u>Infosec Tools (Online) :</u>
+## <u>Chaines Twitch</u>
+
+### Chaines Twitch - Infosec - FR
+
+- [Hack2g2](https://www.twitch.tv/hack2g2)
+
+- [H25io](https://www.twitch.tv/h25io)
+
+### <u>Infosec Tools (Online)</u>
+
+- [ExploitDB](https://www.exploit-db.com/)
 
 - [CyberChef](https://gchq.github.io/CyberChef/)
 
@@ -82,31 +104,27 @@
 
 - [Weakpass](https://weakpass.com/wordlist)
 
+## <u>Cheat Sheet</u>
 
-
-## <u>Cheat Sheet :</u>
-
-### Dev :
+### Dev
 
 - [Bash Scripting](https://devhints.io/bash)
 
 - [Python](https://www.pythoncheatsheet.org/)
 
-### Infosec :
+### Infosec
 
 - [Reverse Shell](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md)
 
 - [CTF Cheat sheet & Mémo](https://lestutosdeprocessus.fr/ctf-cheat-sheet/)
 
+## <u>Mise en pratique</u>
 
-
-## <u>Mise en pratique :</u>
-
-### Dev :
+### Dev
 
 - [Codingame](https://www.codingame.com/)
 
-### CTF :
+### CTF
 
 - [RootMe](https://www.root-me.org/)
 
