@@ -8,7 +8,7 @@
 
 - [ZesteDeSavoir](https://zestedesavoir.com/)
 
-- [OpenClassroom](https://info.openclassrooms.com/)
+- [OpenClassroom](https://openclassrooms.com/)
 
 ### Doc - Dev - EN
 
