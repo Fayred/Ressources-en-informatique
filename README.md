@@ -6,6 +6,8 @@
 
 - [Grafikart](https://grafikart.fr/)
 
+- [ZesteDeSavoir](https://zestedesavoir.com/)
+
 - [OpenClassroom](https://info.openclassrooms.com/)
 
 ### Doc - Dev - EN
@@ -22,11 +24,19 @@
 
 - [Hackndo](https://beta.hackndo.com/)
 
+- [K-lfa](https://k-lfa.info/)
+
 - [H25io](https://blog.h25.io/)
 
 - [Soeasy](http://soeasy.ouaibe.fr/)
 
 - [Xanhacks](https://www.xanhacks.xyz/)
+
+### Doc - Infosec - EN
+
+- [Zenk-Security](https://repo.zenk-security.com)
+
+- [Hacktricks](https://book.hacktricks.xyz/)
 
 ### Doc - Misc - FR
 
@@ -88,19 +98,35 @@
 
 ## <u>Infosec Tools (Online)</u>
 
+### Exploits
+
 - [ExploitDB](https://www.exploit-db.com/)
 
+### Crypto
+
 - [CyberChef](https://gchq.github.io/CyberChef/)
+
+- [Dcode](https://www.dcode.fr/)
 
 - [Crackstation](https://crackstation.net/)
 
 - [Hashcrack](https://www.onlinehashcrack.com/)
 
-- [Osint Framework](https://osintframework.com/)
+### OSINT
+
+- [OsintFramework](https://osintframework.com/)
+
+### Web
 
 - [De4js | JavaScript Deobfuscator](https://lelinhtinh.github.io/de4js/)
 
+### RE
+
 - [Disassembler](https://onlinedisassembler.com)
+
+- [Decompiler](https://www.decompiler.com/)
+
+### Wordlist
 
 - [Weakpass](https://weakpass.com/wordlist)
 
@@ -135,6 +161,8 @@
 - [CryptoHack](https://cryptohack.org/)
 
 - [247CTF](https://247ctf.com/)
+
+- [Crackmes.one](https://crackmes.one/)
 
 - [NewbieContest](https://www.newbiecontest.org/)
 
