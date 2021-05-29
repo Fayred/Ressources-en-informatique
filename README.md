@@ -86,7 +86,7 @@
 
 - [H25io](https://www.twitch.tv/h25io)
 
-### <u>Infosec Tools (Online)</u>
+## <u>Infosec Tools (Online)</u>
 
 - [ExploitDB](https://www.exploit-db.com/)
 
