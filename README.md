@@ -46,7 +46,7 @@
 
 ### Chaines Youtube - Dev - FR
 
-- [FormationVideo](https://www.youtube.com/channel/UCS2e0hEJMhwd6bNscS60xTghttps://www.youtube.com/channel/UCS2e0hEJMhwd6bNscS60xTg)
+- [FormationVideo](https://www.youtube.com/channel/UCS2e0hEJMhwd6bNscS60xTg)
 
 - [Grafikart](https://www.youtube.com/user/grafikarttv)
 
