@@ -164,6 +164,8 @@
 
 - [247CTF](https://247ctf.com/)
 
+- [ROP Emporium](https://ropemporium.com/)
+
 - [Crackmes.one](https://crackmes.one/)
 
 - [NewbieContest](https://www.newbiecontest.org/)
