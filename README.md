@@ -30,7 +30,7 @@
 
 - [H25io](https://blog.h25.io/)
 
-- [Soeasy](http://soeasy.ouaibe.fr/)
+- [Soeasy](http://soeasy.re/)
 
 - [Xanhacks](https://www.xanhacks.xyz/)
 
