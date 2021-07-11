@@ -26,6 +26,8 @@
 
 - [K-lfa](https://k-lfa.info/)
 
+- [Podalirius](https://podalirius.net/fr/)
+
 - [H25io](https://blog.h25.io/)
 
 - [Soeasy](http://soeasy.ouaibe.fr/)
