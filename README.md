@@ -34,6 +34,8 @@
 
 - [Xanhacks](https://www.xanhacks.xyz/)
 
+- [Aperi'Kube](https://www.aperikube.fr/)
+
 ### Doc - Infosec - EN
 
 - [Zenk-Security](https://repo.zenk-security.com)
