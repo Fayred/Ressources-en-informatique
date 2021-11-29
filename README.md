@@ -12,7 +12,7 @@
 
 ### Doc - Dev - EN
 
--[DevDocs](https://devdocs.io/)
+- [DevDocs](https://devdocs.io/)
 - [StackOverflow](https://stackoverflow.com/)
 
 ### Doc - Sysadmin / Linux - FR
