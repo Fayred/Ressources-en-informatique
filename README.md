@@ -127,6 +127,8 @@
 
 - [De4js | JavaScript Deobfuscator](https://lelinhtinh.github.io/de4js/)
 
+- [Findomain](https://findomain.app/)
+
 ### RE
 
 - [Disassembler](https://onlinedisassembler.com)
