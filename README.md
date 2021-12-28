@@ -180,7 +180,7 @@
 
 - [Ctftime](https://ctftime.org/team/141102)
 
-# Bug Bounty
+### Bug Bounty
 
 - [Hackerone](https://hackerone.com)
 
