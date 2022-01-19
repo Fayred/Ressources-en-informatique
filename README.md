@@ -37,6 +37,8 @@
 
 - [Aperi'Kube](https://www.aperikube.fr/)
 
+- [Hackersploit](https://hackersploit.org/)
+
 ### Doc - Infosec - EN
 
 - [Zenk-Security](https://repo.zenk-security.com)
