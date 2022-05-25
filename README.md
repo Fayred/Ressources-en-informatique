@@ -128,6 +128,7 @@
 ### Web
 
 - [De4js | JavaScript Deobfuscator](https://lelinhtinh.github.io/de4js/)
+- [Beeceptor](https://beeceptor.com/)
 
 ### RE
 
