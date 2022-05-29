@@ -137,6 +137,10 @@
 
 - [Decompiler](https://www.decompiler.com/)
 
+### Forensic
+
+- [Hybrid Analysis](https://www.hybrid-analysis.com/)
+
 ### Wordlist
 
 - [Weakpass](https://weakpass.com/wordlist)
