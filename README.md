@@ -126,6 +126,8 @@
 - [OsintFramework](https://osintframework.com/)
 - [GPS Visualiser](https://www.gpsvisualizer.com/)
 - [Overpass-Turbo](https://overpass-turbo.eu/)
+- [Malfrats OSINT Map](https://map.malfrats.industries/)
+- [Epieos](https://epieos.com/)
 
 ### Web
 
