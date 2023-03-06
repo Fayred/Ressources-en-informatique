@@ -131,6 +131,7 @@
 - [Reverse Shell](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md)
 - [CTF Cheat sheet & Mémo](https://lestutosdeprocessus.fr/ctf-cheat-sheet/)
 - [Volatility2](https://k-lfa.info/volatility-cheatsheet/)
+- [XSS cheat sheet PortSwigger](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
 
 ## <u>Mise en pratique</u>
 
@@ -151,6 +152,11 @@
 - [Crackmes.one](https://crackmes.one/)
 - [NewbieContest](https://www.newbiecontest.org/)
 - [Ctftime](https://ctftime.org/team/141102)
+
+### Labs
+
+- [PortSwigger](https://portswigger.net/web-security/all-labs)
+- [VulnHub](https://www.vulnhub.com/)
 
 ### Bug Bounty
 
