@@ -27,12 +27,14 @@
 - [Soeasy](http://soeasy.re/)
 - [Xanhacks](https://www.xanhacks.xyz/)
 - [Aperi'Kube](https://www.aperikube.fr/)
-- [Hackersploit](https://hackersploit.org/)
+- [Mizu](https://mizu.re/)
+- [Itarow](https://blog.itarow.xyz/)
 
 ### Doc - Infosec - EN
 
 - [Zenk-Security](https://repo.zenk-security.com)
 - [Hacktricks](https://book.hacktricks.xyz/)
+- [Hackersploit](https://hackersploit.org/)
 
 ### Doc - Misc - FR
 
@@ -79,6 +81,7 @@
 - [Hack2g2](https://www.twitch.tv/hack2g2)
 - [H25io](https://www.twitch.tv/h25io)
 - [MathisHammel](https://www.twitch.tv/MathisHammel)
+- [Dysnome](https://www.twitch.tv/dysnome)
 
 ## <u>Infosec Tools (Online)</u>
 
@@ -103,6 +106,8 @@
 - [Dorkgpt](https://dorkgpt.com/)
 - [Direkt - Railway](https://direkt.bahn.guru/)
 - [PimpEyes](https://pimeyes.com/)
+- [Airportia](https://www.airportia.com/)
+- [Flightradar24](https://www.flightradar24.com/)
 
 ### Web
 
