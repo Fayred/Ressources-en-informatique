@@ -123,9 +123,10 @@
 
 - [Hybrid Analysis](https://www.hybrid-analysis.com/)
 
-### Wordlist
+### Wordlist - Default Passwords
 
 - [Weakpass](https://weakpass.com/wordlist)
+- [Cirt.net](https://www.cirt.net/)
 
 ## <u>Cheat Sheet</u>
 
